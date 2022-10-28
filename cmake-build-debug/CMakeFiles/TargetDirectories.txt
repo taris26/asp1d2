@@ -1,0 +1,3 @@
+C:/Users/LakiR/CLionProjects/d2asp1/cmake-build-debug/CMakeFiles/d2asp1.dir
+C:/Users/LakiR/CLionProjects/d2asp1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LakiR/CLionProjects/d2asp1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
